@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(156, 156, 203);
+    margin: 50px;
+    border: solid green;
+    width: 1000px;
+    height: 5000px;
+    
+}
+
+#box1{
+
+    border: solid red;
+    padding: 30px;
+    width: 200px;
+    top: 0;
+    right: 0;
+
+}
+
+#box2{
+    border: solid purple;
+}
+#box3{
+    border: solid blue;
+}
